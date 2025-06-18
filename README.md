@@ -60,6 +60,7 @@ Número médio de pedidos
 Todas as análises estão disponíveis no notebook.
 
 A apresentação executiva com insights de negócio foi separada em um arquivo PDF complementar (incluso neste repositório).
+Link para relatórioÇ https://drive.google.com/file/d/1V5NXl0t0lVGNGmTShxCVxGC3duZ-iR3Z/view?usp=sharing
 
 🤝 Contato
 Caso tenha dúvidas ou queira conversar mais sobre o case, estou à disposição!
